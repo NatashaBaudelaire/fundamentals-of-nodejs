@@ -1,0 +1,14 @@
+{
+  "name": "fundamentals-of-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch src/server.js",
+    "dev:streams": "node --watch streams/stream-https-server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
